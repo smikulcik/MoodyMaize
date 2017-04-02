@@ -1,7 +1,14 @@
-Moody Maze
+Moody Maize
 ===
 
+![Moody Maize Logo](logo_22.png)
+
 A text-based room escape game about moods.
+
+Global Game Jam Entry:
+---
+
+http://globalgamejam.org/2014/games/moody-maize
 
 Jam Site: 
 ---
@@ -26,12 +33,8 @@ Web standard (HTML5, Java, JavaScript, Flash)
 Technology Notes: 
 ---
 
-The game engine was crafted from scratch in Javascript during the Jam, aside from the graphics handler (custom-built by a team member and heavily modified during the Jam) and the use of JQuery and Google Fonts.
+The game engine was crafted from scratch in Javascript during the Jam, aside from the graphics handler (custom-built by a team member and heavily modified during the Jam) and the use of JQuery and Google Fonts
 
-Installation Instructions: 
----
-
-Unzip and open 'index.html' in a browser (Chrome preferred) and play.
 
 Credits: 
 ---
@@ -43,8 +46,6 @@ Carter David Henning - Writing and Design
 Olivia Hornback - Art and Design
 
 Simon Mikulcik - Parser Programming
-
- 
 
 Play Now!: 
 ---
